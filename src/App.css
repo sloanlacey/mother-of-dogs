@@ -1,3 +1,22 @@
+html {
+  background-color: #0D0D0D;
+}
+
+h1 {
+  color: #F2D43D;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #F2F2F2;
+}
+
+p {
+  color: #F2F2F2;
+  font-family: 'Catamaran', sans-serif;
+}
+
 /* .App {
   text-align: center;
 }
